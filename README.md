@@ -10,3 +10,12 @@ Millions of Americans don’t have dental or health insurance. Paying out of poc
 * Clinic portal for clinics to sign up
 * Client portal for viewing profile, appointments, ratings, and making payments
 
+![image info](./DesignImages/Intro.png)
+![image info](./DesignImages/Procedure.png)
+![image info](./DesignImages/Location.png)
+![image info](./DesignImages/Calendar.png)
+![image info](./DesignImages/Market.png)
+![image info](./DesignImages/AppointmentTime.png)
+![image info](./DesignImages/Checkout.png)
+![image info](./DesignImages/PatientPortal.png)
+![image info](./DesignImages/ClinicPortal.png)
