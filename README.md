@@ -19,3 +19,35 @@ Millions of Americans don’t have dental or health insurance. Paying out of poc
 ![image info](./DesignImages/Checkout.png)
 ![image info](./DesignImages/PatientPortal.png)
 ![image info](./DesignImages/ClinicPortal.png)
+
+## Web Programming Notes
+### Table element
+* The html table element can produce a table grid structure to format rows and columns of data
+* thead stand for table heading
+* tr stands for table row
+* td stands for table data
+* tbody stands for table body
+#### Example below
+<table>
+    <caption>Alien football stars</caption>
+    <tr>
+        <th scope="col">Player</th>
+        <th scope="col">Gloobles</th>
+        <th scope="col">Za'taak</th>
+    </tr>
+    <tr>
+        <th scope="row">TR-7</th>
+        <td>7</td>
+        <td>4,569</td>
+    </tr>
+    <tr>
+        <th scope="row">Khiresh Odo</th>
+        <td>7</td>
+        <td>7,223</td>
+    </tr>
+    <tr>
+        <th scope="row">Mia Oolong</th>
+        <td>9</td>
+        <td>6,219</td>
+    </tr>
+</table>
