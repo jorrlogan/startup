@@ -54,4 +54,4 @@ Millions of Americans don’t have dental or health insurance. Paying out of poc
 
 ### CSS Notes
 Use frameworks like tailwinds and bootstrap to leverage their design components. This allows you to not have to start from scratch.
-Style sheets are connected up in the head of the html document by using <link rel="stylesheet" href="styles.css"/>
+Style sheets are connected up in the head of the html document by using "link rel="stylesheet" href="styles.css""
