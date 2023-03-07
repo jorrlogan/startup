@@ -55,3 +55,10 @@ Millions of Americans don’t have dental or health insurance. Paying out of poc
 ### CSS Notes
 Use frameworks like tailwinds and bootstrap to leverage their design components. This allows you to not have to start from scratch.
 Style sheets are connected up in the head of the html document by using "link rel="stylesheet" href="styles.css""
+
+### JS Notes
+localstorage allows you to set persistent properties in the browser
+window.location.href = "url" lets you jump pages in the javascript file
+document.querySelectorAll allows you to grab all items with a class name
+document.querySelectore('.classname') allow you to grab a class name
+audio files can be played with the Audio constructor and the play property
