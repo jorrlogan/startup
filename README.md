@@ -1,24 +1,16 @@
-# Shorelines - A Medical Tourism Solution
+# Campsnatch - A Camping Tourism Solution
 
 ## Elevator Pitch
-Millions of Americans don’t have dental or health insurance. Paying out of pocket for certain dental and health treatments is expensive. Many in this situation have found cheaper out of pocket healthcare outside of the US, in particular, Mexico. The lower costs of labor and loosened healthcare restrictions allow for cheaper healthcare. It’s my assumption that many Americans would like to travel to Mexico for healthcare but have little knowledge of how to do it safely. This business would partner with dental offices across the border in Tijuana, Mexicali, Molar City, and Monterey Mexico. It would be a secure and verified payment platform that would allow Americans to book dental procedures while enjoying the valuable rating system on the different available dental practices. 
+Millions of Americans plan camping vacations across the United States each year. Campsnatch is a website that helps campers get notifications when campgrounds become available in their desired camping destinations. Campsnatch leverages the recreation.gov apis to scan for campsite availabilities.
 
 ## Key Features
-* Procedure search page
-* Calendar selection
-* Mock payments & checkout
-* Clinic portal for clinics to sign up
-* Client portal for viewing profile, appointments, ratings, and making payments
+* Search for thousands of campgrounds across the America
+* Get detailed information about campgrounds including amentities, alerts, activities, and directions 
+* Set up a tracker to enable notifications for a certain campground
+* View and edit list of enabled trackers for campgrounds.
 
 ![image info](./DesignImages/Intro.png)
 ![image info](./DesignImages/Procedure.png)
-![image info](./DesignImages/Location.png)
-![image info](./DesignImages/Calendar.png)
-![image info](./DesignImages/Market.png)
-![image info](./DesignImages/AppointmentTime.png)
-![image info](./DesignImages/Checkout.png)
-![image info](./DesignImages/PatientPortal.png)
-![image info](./DesignImages/ClinicPortal.png)
 
 ## Web Programming Notes
 ### Table element
